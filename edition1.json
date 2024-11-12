@@ -1,9 +1,10 @@
 {
   "edition": 1,
-  "editor:": "calvinsyn",
+  "editor": "calvinsyn",
   "date": "11/10/2024",
   "articles": {
     "headline": "Siam Spice Announces V1 Release",
+    "description": "Blah blah blah blah blah",
     "author": "calvinsyn",
     "content": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
     "image": "tba",
