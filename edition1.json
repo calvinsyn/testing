@@ -7,8 +7,9 @@
       "headline": "Siam Spice Announces V1 Release",
       "description": "Blah blah blah blah blah",
       "author": "calvinsyn",
-      "content": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
-      "image": "tba",
+      "content": [
+        "TLorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      ],
       "gamelink": "tba"
     }
   ]
